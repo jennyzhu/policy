@@ -1,0 +1,18 @@
+Last Modified: 2022-08-19
+
+If you administer or run a promotion (e.g., contest, sweepstakes, giveaway, etc.) on Tumblr, you must:
+
+1. Fully disclose all of the promotion's rules, terms, and eligibility requirements including, for example, all entry methods, information about your prizes (including retail value), how a winner is selected, and odds of winning;
+2. In your rules, include a full release of Tumblr by each participant and an acknowledgement that the promotion isn't administered, sponsored, endorsed by, or associated with Tumblr;
+3. Only allow entry by individuals who are eighteen or older;
+4. Avoid using Tumblr's social features (like following, reblogging, and liking) as entry methods, as per our [community guidelines](https://www.tumblr.com/policy/community) against non-genuine social gesture schemes; and
+5. Comply with all applicable rules, regulations, and laws.
+
+We reserve the right (but are not required) to investigate, suspend, and/or terminate any promotion we believe or suspect, in our sole discretion, may be fraudulent, unethical, or in violation of our policies, or any applicable laws. You assume all risk and liability for running any promotion.
+
+Communicating on Tumblr about a promotion that happens off-site is generally OK (but make sure to provide all the information you need to, as noted above).
+
+Link to Prior Versions
+You will find a link to prior versions of our Promotions Guidelines below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed:
+
+http://github.com/tumblr/policy/commits/master/contest-guidelines.txt
